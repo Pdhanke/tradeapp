@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stradata>
+    <strategyName>BNWCEPESELL</strategyName>
+    <version>0</version>
+    <initialStopLoss>20000</initialStopLoss>
+    <partialProfit>6000</partialProfit>
+    <availableMargin>300000</availableMargin>
+    <utilizedMargin>0</utilizedMargin>
+    <incrementOrderSize>40</incrementOrderSize>
+    <waitTimeForCreatePosition>10000</waitTimeForCreatePosition>
+    <orderParamList>
+        <exchange>NFO</exchange>
+        <tradingsymbol>BANKNIFTYDDMMM30000CE</tradingsymbol>
+        <transactionType>BUY</transactionType>
+        <quantity>0</quantity>
+        <price>0.0</price>
+        <product>MIS</product>
+        <orderType>LIMIT</orderType>
+        <validity>DAY</validity>
+        <disclosedQuantity>0</disclosedQuantity>
+        <triggerPrice>0.0</triggerPrice>
+        <squareoff>0.0</squareoff>
+        <trailingStoploss>0.0</trailingStoploss>
+        <tag></tag>
+        <parentOrderId></parentOrderId>
+    </orderParamList>
+    <orderParamList>
+        <exchange>NFO</exchange>
+        <tradingsymbol>BANKNIFTYDDMMM30000CE</tradingsymbol>
+        <transactionType>BUY</transactionType>
+        <quantity>0</quantity>
+        <price>0.0</price>
+        <product>MIS</product>
+        <orderType>LIMIT</orderType>
+        <validity>DAY</validity>
+        <disclosedQuantity>0</disclosedQuantity>
+        <triggerPrice>0.0</triggerPrice>
+        <squareoff>0.0</squareoff>
+        <trailingStoploss>0.0</trailingStoploss>
+        <tag></tag>
+        <parentOrderId></parentOrderId>
+    </orderParamList>
+</stradata>
